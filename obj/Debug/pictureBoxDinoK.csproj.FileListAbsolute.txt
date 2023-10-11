@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\pictureBoxDinoK\bin\Debug\pictureBoxDinoK.exe.config
+C:\Users\ucenik\source\repos\pictureBoxDinoK\bin\Debug\pictureBoxDinoK.exe
+C:\Users\ucenik\source\repos\pictureBoxDinoK\bin\Debug\pictureBoxDinoK.pdb
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.Form1.resources
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.exe
+C:\Users\ucenik\source\repos\pictureBoxDinoK\obj\Debug\pictureBoxDinoK.pdb
